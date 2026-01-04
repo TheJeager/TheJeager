@@ -7,9 +7,9 @@
 </p>
 
 # About me
-- ✨ Name: Eren (aka Atush)
+- ✨ Name: Eren (aka Ayush)
 - 📍 From: Delhi, India
-- 🤖 Interests: Bots / Dev
+- 🤖 Interests: Telegram Bots
 - 💬 Telegram: [@Thekazy](https://t.me/TheKazy)
 
 # Tech stack
