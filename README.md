@@ -16,9 +16,6 @@
 <img alt="tech icons" src="https://skillicons.dev/icons?i=python,git,github,githubactions,mongodb" />
 
 ---
-![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=31is63j23xnf4j76s23xtqdfyfxa)
-
----
 
 # Contact
 - Telegram: [@TheKazy](https://t.me/TheKazy)
